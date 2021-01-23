@@ -14,7 +14,7 @@ Set-up:
 Person 1:
   If sum of all heads in each group is even, it decodes to 1, if odd, it decodes to 0. Group 1 is the first digit and group 6 is the last digit of a 6-bit binary number representing the decoded board.
   Compare the binary location ID of the tile the key is in with the decoded board state. For each digit, if the digits match, record 0 in new 6-bit number, if not, record 1.
-  The new number represents the tile whose coin you flip, thus encoding the board to read the saem 6-bit number as the location ID of the coin.
+  The new number represents the tile whose coin you flip, thus encoding the board to read the same 6-bit number as the location ID of the coin.
   
 Person 2:
   Decode board through same process as Person 1. The result is the binary ID of the tile with the key in it.
