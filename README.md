@@ -21,7 +21,7 @@ Person 2:
 
 The Code:
 Prompts for key placement.
-Creates or imports an excel sheet (using openpyxl) to store binary IDs for chees tiles (cells). Decodes the current state of the chess board to a 6-bit binary number.
+Creates or imports an excel sheet (using openpyxl) to store binary IDs for chess tiles (cells). Decodes the current state of the chess board to a 6-bit binary number.
 Flips one 'coin' to recode board to binary ID of key location.
 Decodes newly created board to get key location.
 Prints the key location and related decoding data.
