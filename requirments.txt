@@ -1,0 +1,4 @@
+Needed 3rd party Python packages: openpyxl
+Needed 3rd party apps: Microsoft Excel
+
+Change the working directory path in line 9 to the folder where you want to save the Excel file that the program creates.
