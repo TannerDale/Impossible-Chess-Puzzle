@@ -1,4 +1,5 @@
-# impossible_chess_v2.py
+The Impossible Chessboard Puzzle is a math puzzle involving two prisoners, a sadistic captor, a chessboard, and some coins.
+
 The Puzzle:
 You and your friend have been captured. Your sadistic captor gives you a challenge and tells you he'll let you both go if you can solve it.
 Your challenge is this: a coin is randomly laid on every space of a chess board. Some are heads, some are tails (or all heads and all tails, who knows).
@@ -26,4 +27,3 @@ Flips one 'coin' to recode board to binary ID of key location.
 Decodes newly created board to get key location.
 Prints the key location and related decoding data.
 
-Modify working directory in line 8.
